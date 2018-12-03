@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/root">
+        <file>images/index.png</file>
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/receive.png</file>
+        <file>images/send.png</file>
+        <file>images/clear.jfif</file>
+        <file>images/about.jfif</file>
+        <file>images/exit.png</file>
+        <file>images/app.png</file>
+    </qresource>
+    <qresource prefix="/json">
+        <file>settings.json</file>
+    </qresource>
+</RCC>
